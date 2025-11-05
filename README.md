@@ -7,8 +7,9 @@
   <li><strong>Backend:</strong> Python, C#</li>
   <li><strong>Bases de datos:</strong> MySQL, PostgreSQL</li>
   <li><strong>Control de versiones:</strong> Git, GitHub</li>
-  <li><strong>Herramientas y entornos:</strong> VS Code, npm, Vite</li>
+  <li><strong>Herramientas y entornos:</strong> VS Code, npm, Vite, N8N</li>
   <li><strong>Diseño y UX/UI:</strong> Figma, Responsive Design</li>
+  
 </ul>
 
 <h3>🧠 Habilidades blandas</h3>
