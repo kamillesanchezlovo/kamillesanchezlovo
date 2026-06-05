@@ -4,7 +4,7 @@
 <h3>Habilidades técnicas 💻</h3>
 <ul>
   <li><strong>Frontend:</strong> Next.js, React, HTML5, CSS3, JavaScript (ES6+), Tailwind CSS</li>
-  <li><strong>Backend:</strong> Python, C#</li>
+  <li><strong>Backend:</strong>JavaScript, Python, C#</li>
   <li><strong>Bases de datos:</strong> MySQL, PostgreSQL</li>
   <li><strong>Control de versiones:</strong> Git, GitHub</li>
   <li><strong>Herramientas y entornos:</strong> VS Code, npm, Vite, N8N</li>
